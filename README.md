@@ -1,6 +1,8 @@
 The program ConvexAlign finds a global alignment between multiple of networks.   
 Please cite: Hashemifar, Somaye, Qixing Huang, and Jinbo Xu. "Joint Alignment of Multiple Protein–Protein Interaction Networks via Convex Optimization." Journal of Computational Biology 23.11 (2016): 903-911.
 
+I made some modifications to speed some things up, compile it on linux, and automate things.
+
 +++++++++++++++++++++++++++++++++++++++
 
 Format of input files:

@@ -13,6 +13,8 @@ Output
 #include <algorithm>
 using namespace std;
 
+#include "LPCons.cpp"
+
 // The three input matrices are
 // 1) The mesh vertices
 // 2) The mesh faces
